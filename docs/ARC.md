@@ -1,5 +1,7 @@
 # Different Roles
 
+There are 6 roles in Academic Reading Circles(ARC).
+
 ## Leader
 
 *   Prepare and ask question to check the main ideas
@@ -47,3 +49,4 @@
 
 !!! tip "Summary"
     Represent **key concepts** in **visual form**
+

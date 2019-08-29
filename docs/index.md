@@ -1,17 +1,21 @@
-# Welcome to MkDocs
+# Welcome to Pre-sessional English
 
-For full documentation visit [mkdocs.org](https://mkdocs.org).
+For full documentation visit:
+[English Language Teaching Centre(ELTC)](https://www.sheffield.ac.uk/eltc).
 
-## Commands
+### Entry Requirements
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
+For more information of the entry requirements, please visit: 
+[Entry Requirements Term-4](https://www.sheffield.ac.uk/eltc/presessional/entry-requirements-term-4)
 
-## Project layout
+### Application Blank
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Apply for the Rre-sessional English:
+[Application Website](https://arp.shef.ac.uk/apply/eltc/course)
+
+
+
+
+
+
+![school-logo](assets/school-logo.jpg)

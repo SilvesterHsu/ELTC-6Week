@@ -1,6 +1,10 @@
 site_name: My Docs
 nav:
     - Introduction: index.md
+    - Academic Reading Circles: ARC.md
+    - Extended Writing: EXW.md
+    - Presentation: PST.md
+    - About: about.md
 theme:
   name: readthedocs
 extra_javascript:

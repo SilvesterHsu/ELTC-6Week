@@ -1,0 +1,16 @@
+site_name: My Docs
+nav:
+    - Introduction: index.md
+theme:
+  name: readthedocs
+extra_javascript:
+    - https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+markdown_extensions:
+    - toc:
+        baselevel: 3
+        permalink: true
+    - mdx_math
+    - pymdownx.arithmatex
+    - admonition
+    - pymdownx.details
+    - pymdownx.superfences 

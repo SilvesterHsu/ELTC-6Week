@@ -18,4 +18,4 @@ markdown_extensions:
     - pymdownx.arithmatex
     - admonition
     - pymdownx.details
-    - pymdownx.superfences 
+    - pymdownx.superfences

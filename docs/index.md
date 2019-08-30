@@ -14,6 +14,16 @@ Apply for the Rre-sessional English:
 [Application Website](https://arp.shef.ac.uk/apply/eltc/course)
 
 
+### Reference Timeline of Important tasks
+```mermaid
+    gantt
+    dateFormat  YYYY-MM-DD
+    title 19's PS-06 Timeline
+
+    
+```
+
+
 
 
 

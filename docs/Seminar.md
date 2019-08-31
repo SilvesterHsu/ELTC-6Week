@@ -1,5 +1,4 @@
-# Seminar
-## Introduction
+# Introduction
 One of the assessment tasks on this course is a seminar based on a lecture. In it you will
 
 *   Need to prepare questions to ask other students
@@ -15,7 +14,7 @@ One of the assessment tasks on this course is a seminar based on a lecture. In i
     *   Video of the lecture will be released at 11:15 on the same of your seminar. Usually there are only 2 hours to preparation & lunch (Please avoid speaking on an empty stomach. Show the energy of your voice!).
     *   Lectures usually have slides. 
 
-## Notes Taking
+# Notes Taking
 
 Two styles of notes are introduced in class - linear notes & spider diagrams. 
 
@@ -39,14 +38,14 @@ Two styles of notes are introduced in class - linear notes & spider diagrams.
     *   Pay attention to **signposts**<br>
         e.g. *"just to summarize", "so we are going to look at", etc.*
         
-## Qusetions  Classification
-### 3Rs
+# Qusetions  Classification
+## 3Rs
 *   Review
 *   Response
 *   Reflect
 
 
-## Points about Evaluating Seminars in General
+# Points about Evaluating Seminars in General
 
 Think about the different stages we discussed when conducting a seminar.
 
@@ -83,7 +82,7 @@ Discuss / check whether your group performed these things, if not think about wh
 *   Type up and file any notes you have made during the seminar.
 *   You could also meet up with other students to chat about what was discussed afterwards.
 
-## Useful Language for Seminar Discussions
+# Useful Language for Seminar Discussions
 
  <table width="100%">
     <tr>

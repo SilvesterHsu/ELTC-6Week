@@ -1,6 +1,7 @@
 site_name: My Docs
 nav:
     - Introduction: index.md
+    - Assessment: Assessment.md
     - Academic Reading Circles: ARC.md
     - Seminar: Seminar.md
     - Extended Writing: EXW.md

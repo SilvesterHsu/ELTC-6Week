@@ -50,3 +50,8 @@ There are 6 roles in Academic Reading Circles(ARC).
 !!! tip "Summary"
     Represent **key concepts** in **visual form**
 
+## Example
+
+![Highlighter](assets/ARC_01.jpg)
+
+![Quote Miner](assets/ARC_02.jpg)
